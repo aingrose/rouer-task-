@@ -131,7 +131,7 @@ function App() {
         img:"https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-books-to-learn-data-science.webp"
       } 
     ]
-  let CyberCard = [
+   let CyberCard = [
 
     {
       id: 1,
@@ -149,25 +149,25 @@ function App() {
       id: 3,
       name: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       desc: "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2024/01/Feature-image-Top-Free-Courses-by-GUVI-Best-Upskilling-Courses-in-Tech.webp",
     },
     {
       id: 4,
       name: "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
       desc: "Look around today, you will witness that we are more reliant on technology and devices",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2024/01/Feature-image-Design-Thinking-and-Prototyping-in-UIUX-A-Comprehensive-Guide.webp",
     },
     {
       id:5,
       name:"8 Different Types of Cybersecurity and Threats Involved",
       desc:"Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png"
+      img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp"
     },
     {
       id:6,
       name:"Top 7 Cyber Security Attacks in Real Life",
       desc:"Cyber security attacks are the type of actions that are designed to destroy, steal, modify,",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif"
+      img:"https://www.guvi.in/blog/wp-content/uploads/2023/11/top-ways-to-assess-soft-skills-in-full-stack-developers.webp"
     } 
   ]
 
@@ -183,7 +183,7 @@ function App() {
       id: 2,
       name: "UI/UX Designer Job Description and Roles & Responsibilities",
       desc: "UI UX is the abbreviated word that’s been rocking the trend over the years, especially",
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg"
+      img: "https://www.guvi.in/blog/wp-content/uploads/2024/01/Feature-image-Design-Thinking-and-Prototyping-in-UIUX-A-Comprehensive-Guide.webp"
     },
     {
       id: 3,
