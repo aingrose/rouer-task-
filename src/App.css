@@ -1,0 +1,14 @@
+
+.navbar-nav .nav-item.active .nav-link::after {
+    content: "";
+    display: block; 
+   
+    text-decoration: underline;
+    font-size: 50px;
+    margin-top: 10px;
+    height: 4px;
+    background-color: #1a6f0b;  
+    text-underline-offset: 4px; 
+}
+
+  
